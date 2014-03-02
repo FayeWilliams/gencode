@@ -1,0 +1,2 @@
+John	Smith	Sales	555-1234
+Mary	Jones	Accts	555-4321
