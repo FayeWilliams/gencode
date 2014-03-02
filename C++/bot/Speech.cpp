@@ -1,3 +1,8 @@
+// Faye Williams
+// 23 May 2006
+// Speech.cpp
+// Speech class definition
+
 #include "Speech.h"
 #include "Defines.h"
 #include <String>

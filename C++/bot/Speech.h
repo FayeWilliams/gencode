@@ -1,3 +1,8 @@
+// Faye Williams
+// 23 May 2006
+// Speech.h
+// Speech class header file
+
 #include <vector>
 
 class Speech

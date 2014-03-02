@@ -1,3 +1,8 @@
+// Faye Williams
+// 23 May 2006
+// main.cpp
+// Main program file
+
 #include <iostream>
 #include "Speech.h"
 #include "Defines.h"
